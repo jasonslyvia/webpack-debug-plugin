@@ -12,7 +12,7 @@ npm install --save-dev webpack-debug-plugin
 ```
 
 ```javascript
-const DebugPlugin = require('webpack-debug-plugin);
+const DebugPlugin = require('webpack-debug-plugin');
 // webpack.config.js
 {
   plugins: [
@@ -23,7 +23,7 @@ const DebugPlugin = require('webpack-debug-plugin);
 
 ## Options
 
-```json
+```js
 {
   template: Function,
   multiple: boolean,
