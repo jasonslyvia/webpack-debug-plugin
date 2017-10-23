@@ -1,0 +1,26 @@
+{
+  "name": "webpack-debug-plugin",
+  "version": "0.1.0",
+  "description": "Inject useful debug info to each entry js globally",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "return -"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonslyvia/webpack-debug-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "debug"
+  ],
+  "author": "jasonslyvia <jasonslyvia@gmail.com> (http://undefinedblog.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jasonslyvia/webpack-debug-plugin/issues"
+  },
+  "homepage": "https://github.com/jasonslyvia/webpack-debug-plugin#readme"
+}
