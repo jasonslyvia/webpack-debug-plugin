@@ -1,6 +1,6 @@
 {
   "name": "webpack-debug-plugin",
-  "version": "0.2.3",
+  "version": "1.0.0",
   "description": "Inject useful debug info to each entry js globally",
   "main": "lib/index.js",
   "directories": {

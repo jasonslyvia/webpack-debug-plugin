@@ -9,6 +9,9 @@ Inject useful debug info to each entry js globally
 
 ```bash
 npm install --save-dev webpack-debug-plugin
+
+# For Webpack 3
+npm install --save-dev webpack-debug-plugin@0.x
 ```
 
 ```javascript
